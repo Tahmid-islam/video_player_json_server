@@ -1,4 +1,4 @@
-const data = require("./db_videos.json");
+const data = require("./db_videos");
 
 module.exports = {
   data,
