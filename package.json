@@ -1,14 +1,15 @@
 {
-    "name": "Tahmid_Video_player",
+    "name": "tahmid-json-server-videos",
     "description": "Example in memory videos api with json-server by Tahmid",
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
-    },
-    "dependencies": {
-        "json-server": "^0.17.0"
+      "start": "node server.js"
     },
     "keywords": [],
-    "author": "Tahmid Islam"
-}
+    "author": "Tahmid",
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
+  
