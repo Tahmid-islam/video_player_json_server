@@ -1,14 +1,14 @@
 {
-    "name": "lws-json-server-todos",
-    "description": "Example in memory videos api with json-server by Learn with Sumit",
+    "name": "Tahmid_Video_player",
+    "description": "Example in memory videos api with json-server by Tahmid",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
-        "start": "json-server --watch db_videos.json --no-cors true --port 9000"
+        "start": "node server.js"
     },
     "dependencies": {
         "json-server": "^0.17.0"
     },
     "keywords": [],
-    "author": "Sumit Saha, Learn with Sumit"
+    "author": "Tahmid Islam"
 }
