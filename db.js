@@ -1,5 +1,7 @@
-const data = require("./db_videos");
+const db_videos = require("./data/db_videos");
+
 
 module.exports = {
-  data,
-};
+  db_videos,
+}
+
