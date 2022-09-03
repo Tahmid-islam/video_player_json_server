@@ -119,6 +119,21 @@
         "tags": ["python", "development", "scanner"],
         "likes": 0,
         "unlikes": 0
+    },
+    {
+        "id": 9,
+        "title": "Complete Web Development Programming Hero",
+        "description": "তুমি যদি প্রোগ্রামিং হিরো এর ওয়েব ডেভেলপমেন্ট কোর্স এ জয়েন করতে চাও। তাহলে এই লিংকে চলে যাও জুনের ২৪ এর মধ্যে তোমাকে আমার সাথে কথা বলে দিব। আমি তোমাকে সব কিছু দিব। আমার সাথে কথা বলার জন্য এই লিংকে চলে যাও। https://www.facebook.com/groups/programminghero/",
+        "author": "Jhankar Mahbub",
+        "avatar": "https://images.gr-assets.com/authors/1456905354p8/15050617.jpg",
+        "date": "Sep 15, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube.com/embed/XFZyqeTnVuk",
+        "thumbnail": "https://i3.ytimg.com/vi/bywrBIg7aCE/maxresdefault.jpg",
+        "tags": ["javascript", "programming", "react"],
+        "likes": 0,
+        "unlikes": 0
     }
   ],
   "tags": [
